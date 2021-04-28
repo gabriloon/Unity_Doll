@@ -1,9 +1,9 @@
 # Unity_StoryTelecom
 It's kind of a horror game, and it's a game that still needs to be fixed.
-This repository contains:
-	1.Contains the code of the project.
-	2.Background of the project.
-	3.Contributor.
+This repository contains:<br>
+	1.Contains the code of the project.<br>
+	2.Background of the project.<br>
+	3.Contributor.<br>
 	
 ## 목차
 - [BackGround](#BackGround)
