@@ -22,6 +22,14 @@ Upon entering the mansion, the mansion was a strange place to display ghost stor
 
 
 ## Description
+Unzip the **Scripts.zip** folder and go into the folder.<br>
+Several *folders* will appear.<br>
+The contents of each *folder* are as follows.<br>
+*LobbyScript*: Script related to the starting stage.<br>
+*Stage1Script*: Script related to the first ghost story.<br>
+*Stage2Script*: Script related to the second ghost story.<br>
+*Player*: Script for functions related to Player.<br>
+*NotUse*: Codes that have been created but are not used in the project.<br>
 
 ## RelatedEfforts
 Main Engine: [Unity engine](https://unity.com/kr)<br>
