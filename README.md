@@ -19,6 +19,6 @@ Upon entering the mansion, the mansion was a strange place to display ghost stor
 ## Description
 ## Related Efforts
 Main Engine:Unity engine
-3D objects:> turbosquid, >Free3D, AssetStore
+3D objects:turbosquid, Free3D, AssetStore
 Sound:Free Sound
 ## Contributor
