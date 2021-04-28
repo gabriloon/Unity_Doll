@@ -12,7 +12,7 @@ This repository contains:
 - [Contributor](#Contributor)
 
 
-// 컨텐츠 헤더
+
 ## BackGround
 A player woke up in a dark space, a strange mansion that you can even look around.
 Upon entering the mansion, the mansion was a strange place to display ghost stories.<br>
