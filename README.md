@@ -1,18 +1,24 @@
 # Unity_StoryTelecom
- It's kind of a horror game, and it's a game that still needs to be fixed.
-
+It's kind of a horror game, and it's a game that still needs to be fixed.
+This repository contains:
+	1.Contains the code of the project.
+	2.Background of the project.
+	3.Contributor.
+	
 ## 목차
-- [배경](#배경)
-- [코드관련](#코드관련)
-	- [기/호#는?](#기호는)
-- [관련지식](#관련지식)
-- [기여](#기여)
+- [BackGround](#BackGround)
+- [Description](#Description)
+- [Related Efforts](#Related Efforts)
+- [Contributor](#Contributor)
 
 
 // 컨텐츠 헤더
-## 배경
-## 코드관련
-### 기/호#는?
-// `✨ 이모지타이틀`처럼 사이에 띄어쓰기를 하면 안됩니다! 
-## 관련지식 
-## 기여
+## BackGround
+A player woke up in a dark space, a strange mansion that you can even look around.
+Upon entering the mansion, the mansion was a strange place to display ghost stories.
+## Description
+## Related Efforts
+Main Engine:Unity engine
+3D objects:turbosquid, Free3D, AssetStore
+Sound:Free Sound
+## Contributor
