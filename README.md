@@ -1,5 +1,5 @@
 # Unity_StoryTelecom
-It's kind of a horror game, and it's a game that still needs to be fixed.
+It's kind of a horror game, and it's a game that still needs to be fixed.<br>
 This repository contains:<br>
 	1.Contains the code of the project.<br>
 	2.Background of the project.<br>
