@@ -8,7 +8,7 @@ This repository contains:
 ## 목차
 - [BackGround](#BackGround)
 - [Description](#Description)
-- [Related Efforts](#Related Efforts)
+- [Related Efforts](#RelatedEfforts)
 - [Contributor](#Contributor)
 
 
@@ -17,5 +17,5 @@ This repository contains:
 A player woke up in a dark space, a strange mansion that you can even look around.
 Upon entering the mansion, the mansion was a strange place to display ghost stories.
 ## Description
-## Related Efforts
+## RelatedEfforts
 ## Contributor
