@@ -16,6 +16,8 @@ This repository contains:
 ## BackGround
 A player woke up in a dark space, a strange mansion that you can even look around.
 Upon entering the mansion, the mansion was a strange place to display ghost stories.
+![ST1](https://user-images.githubusercontent.com/33173322/116449425-20463e80-a895-11eb-9b50-7911fe25d0f2.png)
+
 ## Description
 
 ## RelatedEfforts
