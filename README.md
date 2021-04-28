@@ -1,7 +1,8 @@
 # Unity_StoryTelecom
  It's kind of a horror game, and it's a game that still needs to be fixed.
 
-##소제목
+# 비교
+## 소제목
 **굵은글씨**
 > 인용글 
 >this is 인용
