@@ -19,7 +19,7 @@ Upon entering the mansion, the mansion was a strange place to display ghost stor
 ![ST0](https://user-images.githubusercontent.com/33173322/116456157-e416dc00-a89c-11eb-86fd-093f43319fed.png)<br>
 ![ST5](https://user-images.githubusercontent.com/33173322/116454880-66060580-a89b-11eb-8812-fb1054af893d.png)<br>
 ![ST7](https://user-images.githubusercontent.com/33173322/116456432-3eb03800-a89d-11eb-88fb-3e4c1a2e4600.png)<br>
-
+![ST6_2](https://user-images.githubusercontent.com/33173322/116456667-7919d500-a89d-11eb-8fc3-1a300f5beecf.png)<br>
 ## Description
 Unzip the **Scripts.zip** folder and go into the folder.<br>
 Several *folders* will appear.<br>
