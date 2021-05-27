@@ -23,7 +23,7 @@ Upon entering the mansion, the mansion was a strange place to display ghost stor
 ## Description
 Unzip the **Scripts.zip** folder and go into the folder.<br>
 Several *folders* will appear.<br>
-The contents of each *folder* are as follows.<br>
+The contents of each *folder* are as follows.<br><br>
 **LobbyScript**: Script related to the starting stage.(Regarding Lobby, there are special functions of each object and Event Code)<br><br>
 **Stage1Script**: Script related to the first ghost story.(Regarding Stage1, there are special functions of each object and Event Code, and AI-related codes of enemies)<br><br>
 **Stage2Script**: Script related to the second ghost story.(Regarding Stage2, there are special functions of each object and Event Code)<br><br>
